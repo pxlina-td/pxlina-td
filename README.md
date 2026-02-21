@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pxlina-td
-- I’m currently learning JavaScript and C#
-- 12 grade student at Mathematics High School
+- 👋 Hi
+- Mathematics High School Ruse
+  
 
 
 <!---
